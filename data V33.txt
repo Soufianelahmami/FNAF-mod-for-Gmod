@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Before we dive into the mod itself, let's briefly introduce the Five Nights at Freddy's franchise.","photo2":"https://iili.io/HgPTxMG.jpg"},
+  {"desc3":"Created by Scott Cawthon, Five Nights at Freddy's is a renowned horror game series that gained massive popularity for its unique blend of suspense, jump scares, and intricate storytelling","photo3":"https://iili.io/HgPTzPf.jpg"},
+  {"desc4":"The game revolves around a player taking on the role of a security guard at a haunted pizzeria, tasked with surviving five nights while dealing with animatronic characters that come to life at night.","photo4":"https://iili.io/HgPTons.jpg"},
+  {"desc5":"The FNAF mod for GMod takes inspiration from the original Five Nights at Freddy's games, allowing players to bring elements of the FNAF universe into the sandbox environment of Garry's Mod.","photo5":"https://iili.io/HgPTTF4.webp"},
+  {"descd":"The mod incorporates various key aspects from the franchise, including the animatronic characters, the eerie atmosphere, and the mechanics of surviving against them","photod":"https://iili.io/HgPTucl.jpg"}
    ]
  
 }
